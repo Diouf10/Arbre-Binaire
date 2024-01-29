@@ -1,0 +1,14 @@
+C:\Users\1936603\Desktop\arbre\arbre\bin\Debug\net8.0\arbre.exe
+C:\Users\1936603\Desktop\arbre\arbre\bin\Debug\net8.0\arbre.deps.json
+C:\Users\1936603\Desktop\arbre\arbre\bin\Debug\net8.0\arbre.runtimeconfig.json
+C:\Users\1936603\Desktop\arbre\arbre\bin\Debug\net8.0\arbre.dll
+C:\Users\1936603\Desktop\arbre\arbre\bin\Debug\net8.0\arbre.pdb
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\arbre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\arbre.AssemblyInfoInputs.cache
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\arbre.AssemblyInfo.cs
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\arbre.csproj.CoreCompileInputs.cache
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\arbre.dll
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\refint\arbre.dll
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\arbre.pdb
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\arbre.genruntimeconfig.cache
+C:\Users\1936603\Desktop\arbre\arbre\obj\Debug\net8.0\ref\arbre.dll
